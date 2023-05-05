@@ -10,7 +10,7 @@ The corpus contains the stenographic record of plenary sittings of the Sejm – 
 
 ### Data source and acquisition
 
-The data and linguistic annotation was retrieved from the [Polish Parliamentary Corpus](https://www.clarin.si/noske/parlamint.cgi/corp_info?corpname=parlamint_pl&struct_attr_stats=1&subcorpora=1).
+The data and linguistic annotation was retrieved from the [Polish Parliamentary Corpus](http://clip.ipipan.waw.pl/PPC).
 
 MP metadata (gender, birth date, political affiliations) was retrieved from the websites of [Sejm](http://www.sejm.gov.pl/) and [Senate](https://www.senat.gov.pl/). The speakers were assigned a role of chairman, regular or guest. All MPs were given the role of regular, even if they are speaking as PM, minister or someone else.
 
